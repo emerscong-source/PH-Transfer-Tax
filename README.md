@@ -9,4 +9,4 @@ It takes user input, applies simple tax rules, and displays the computed tax.
 - Clean and easy-to-understand logic
 
 ## Purpose
-This project is part of my learning journey and serves as a sample for job applications.
+This project is part of my learning journey and serves as a sample.
